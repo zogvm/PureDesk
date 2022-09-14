@@ -22,7 +22,9 @@
 
 原始文件来自https://m.app.mi.com/details?id=com.jeejen.family
 
-版本 com.jeejen.family-3.1.28.20211223
+## 版本 
+#### com.jeejen.family-3.1.28.20211223
+#### com.jeejen.family-3.1.29.20220903
 
  1.去除 启动屏幕时的广告（即按下中间按钮时触发的）
  
