@@ -44,7 +44,8 @@
 
 原始文件来自https://www.jeejen.com/download/com.jeejen.family.html 
 
-版本 JeejenHome_General-20180412-f81038e-release   3.1.16
+## 版本 
+#### JeejenHome_General-20180412-f81038e-release   3.1.16
 
  1.去除 启动屏幕时的问卷
  
